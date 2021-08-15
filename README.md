@@ -1,4 +1,4 @@
-[![Header](https://github.com/mariegaac/mariegaac/master/IMG_4551.JPG)]
+[![Header](https://github.com/MarieGaac/MarieGaac/blob/main/IMG_4551.JPG]
 Hi! Welcome to my profile💖. I'm Mariana Garcia🙋, but you can call me Mari🦋.
 
 I'm a student of Engineering Systems👩‍💻 who really loves design and learning the most I can🌼.
