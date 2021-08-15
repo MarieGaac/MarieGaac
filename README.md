@@ -23,3 +23,9 @@ Well, that's all for now, thanks for taking a look!🌻
 ![MySQL](https://img.shields.io/badge/-MySQL-3d5a80?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-98c1d9?style=for-the-badge&logo=mongodb)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-e0fbfc?style=for-the-badge&logo=bootstrap)
+
+### Social media
+
+[![Instagram](https://img.shields.io/badge/-Instagram-ee6c4d?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marigaac1d/)
+[![Twitter](https://img.shields.io/badge/-Twitter-293241?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mariegaac)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-3d5a80?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com.mx/mariegc28/)
