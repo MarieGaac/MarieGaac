@@ -1,6 +1,6 @@
 # Hi! I'm Mariana Garcia🙋, but you can call me Mari🦋.
 
-### I'm a student of Engineering Systems👩‍💻 who really loves design and learning the most I can🌼.
+### I'm a student of Engineering Systems and co-founder of @domend👩‍💻, who really loves design and learning the most I can🌼.
 
 - I'm actually learning about UX/UI design, so you can see my projects here💐. 
 - Also, I really love painting with watercolor, oil and color pencils🎨.
